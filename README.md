@@ -7,10 +7,10 @@
 🚀 Learning more, building better projects, and improving every day <br>
 
 ## 🛠️ Technologies <br>
-<br> 
+<br>  
 [![My Skills](https://skillicons.dev/icons?i=java,css,html,wordpress,php)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=mysql,kotlin,git,visualstudio,androidstudio)](https://skillicons.dev) <br>
-
+<br> 
 ## 📈 Stats <br>
 <br>
 <p>
