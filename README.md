@@ -7,11 +7,12 @@
 🚀 Learning more, building better projects, and improving every day <br>
 
 ## 🛠️ Technologies <br>
-
+<br>
 [![My Skills](https://skillicons.dev/icons?i=java,css,html,wordpress,php)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=mysql,kotlin,git,visualstudio,androidstudio)](https://skillicons.dev) <br>
 
 ## 📈 Stats <br>
+<br>
 <p>
     <a href="https://github.com/jorgemg26/github-readme-stats">
 	    <img alt="jorgemg26's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jorgemg26&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
