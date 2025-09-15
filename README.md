@@ -9,4 +9,4 @@
 ## 🛠️ Technologies <br>
 
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,wordpress,php)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=mysql,git,kotlin,visualstudio,androidstudio)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=mysql,kotlin,git,visualstudio,androidstudio)](https://skillicons.dev) <br>
