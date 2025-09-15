@@ -4,3 +4,6 @@
 🌱 I’m currently learning JavaScript and Python <br>
 ⚡ Fun fact: I like fitness, i also try to code my own muscles💪 <br>
 🚀 Building projects to grow as a developer <br>
+<br>
+##🛠️ Technologies <br>
+
