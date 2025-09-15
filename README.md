@@ -1,4 +1,4 @@
-## Hello, world! I´m Jorge 👋
+# Hello, world! I´m Jorge 👋
 🎓 2nd-year DAM student <br>
 💻 Passionate about programming and technology <br>
 🌱 I’m currently learning JavaScript and Python <br>
