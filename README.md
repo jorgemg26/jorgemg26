@@ -9,6 +9,9 @@
 ## 🛠️ Technologies <br>
 [![My Skills](https://skillicons.dev/icons?i=java,css,html,wordpress,php)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=mysql,kotlin,git,visualstudio,androidstudio)](https://skillicons.dev) <br>
+
+<details><summary><h2> :open_file_folder: 📁 My Repositories </h2></summary>
+
 ## 📈 Stats <br>
 <p>
     <a href="https://github.com/jorgemg26/github-readme-stats">
