@@ -6,7 +6,7 @@
 #### ⚡ Fun fact: I like fitness, sports and training 💪 I´m also trying to dance bachata 🕺 <br>
 #### 🚀 Learning more, building better projects, and improving every day <br>
 
-## 🛠️ Technologies <br>
+## 🛠️ Technologies <br> <br>
 [![My Skills](https://skillicons.dev/icons?i=java,css,html,wordpress,php)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=mysql,kotlin,git,visualstudio,androidstudio)](https://skillicons.dev) <br>
 
