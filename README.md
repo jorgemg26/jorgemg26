@@ -1,4 +1,4 @@
-# Hello, world! I´m Jorge 👋
+<h1> Hello, world! I´m Jorge <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 
 #### 🎓 2nd-year DAM student <br>
 #### 💻 Passionate about programming and technology <br>
