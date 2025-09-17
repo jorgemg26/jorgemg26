@@ -3,7 +3,7 @@
 🎓 2nd-year DAM student <br>
 💻 Passionate about programming and technology <br>
 🌱 I’m currently learning `JavaScript`, `Python` and `Linux` <br>
-⚡ Fun fact: I like fitness and training 💪 I´m also trying to learn how to dance 🕺 <br>
+⚡ Fun fact: I like fitness and training 💪 I´m also trying to dance bachata 🕺 <br>
 🚀 Learning more, building better projects, and improving every day <br>
 
 ## 🛠️ Technologies <br>
