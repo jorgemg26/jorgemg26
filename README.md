@@ -2,7 +2,7 @@
 
 #### 🎓 2nd-year DAM student <br>
 #### 💻 Passionate about programming and technology <br>
-#### 🌱 I’m currently learning `JavaScript`, `Python` and `Linux` <br>
+#### 🌱 I’m currently learning `AWS`, `IA` and `CiberSeg` <br>
 #### ⚡ Fun fact: I like 🚵, nature and training 💪 I´m also trying to dance bachata 🕺 <br>
 #### 🚀 Learning more, building better projects, and improving every day <br>
 
