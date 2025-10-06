@@ -2,12 +2,12 @@
 
 #### 🎓 2nd-year DAM student <br>
 #### 💻 Passionate about programming and technology <br>
-#### 🌱 I’m currently learning about `AWS`, `IA` and `CiberSeg` <br>
+#### 🌱 I’m currently learning about `AWS`, `AI` and `CiberSeg` <br>
 #### ⚡ Fun fact: I like 🚵, nature and training 💪 I´m also trying to dance bachata 🕺 <br>
 #### 🚀 Learning more, building better projects, and improving every day <br>
 
 ## 🛠️ Technologies <br>
-[![My Skills](https://skillicons.dev/icons?i=java,css,mysql,js,kotlin,wordpress,vscode,mongodb)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=java,css,mysql,js,kotlin,wordpress,vscode,mongodb,eclipse)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=py,html,linux,git,hibernate,jquery,androidstudio,php)](https://skillicons.dev) <br>
 
 <details><summary><h2> 📁 My Repositories </h2></summary>
