@@ -7,8 +7,8 @@
 #### 🚀 Learning more, building better projects, and improving every day <br>
 
 ## 🛠️ Technologies <br>
-[![My Skills](https://skillicons.dev/icons?i=java,css,mysql,js,wordpress,vscode,mongodb,eclipse)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=py,html,linux,git,hibernate,jquery,androidstudio,php)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=java,css,mysql,js,vscode,wordpress,mongodb)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=py,html,linux,git,eclipse,hibernate,jquery,androidstudio,php)](https://skillicons.dev) <br>
 
 <details><summary><h2> 📁 My Repositories </h2></summary>
 <div>
