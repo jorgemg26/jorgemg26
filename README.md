@@ -19,14 +19,14 @@
 	<a href="https://github.com/jorgemg26/Cine">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=Cine&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/jorgemg26/AulaEstudianteProfesor">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=AulaEstudianteProfesor&theme=tokyonight" alt="GitHub Stats" />
+	 <a href="https://github.com/jorgemg26/Empleados">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=Empleados&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    <a href="https://github.com/jorgemg26/Slider">
+	<a href="https://github.com/jorgemg26/Slider">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=Slider&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    <a href="https://github.com/jorgemg26/Empleados">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=Empleados&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/jorgemg26/AulaEstudianteProfesor">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=AulaEstudianteProfesor&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     <a href="https://github.com/jorgemg26/Passwords">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=Passwords&theme=tokyonight" alt="GitHub Stats" />
