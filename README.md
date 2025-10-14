@@ -13,6 +13,9 @@
 <details><summary><h2> 📁 My Repositories </h2></summary>
 <div>
   <p align="center">
+	<a href="https://github.com/jorgemg26/FilesManagement">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=FilesManagement&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
 	<a href="https://github.com/jorgemg26/Cine">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=Cine&theme=tokyonight" alt="GitHub Stats" />
     	</a>
