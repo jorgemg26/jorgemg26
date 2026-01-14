@@ -2,7 +2,7 @@
 
 #### 🎓 2nd-year DAM student <br>
 #### 💻 Passionate about programming and technology <br>
-#### 🌱 I’m currently learning about `Kotlin`, `CiberSecurity` and `AI` <br>
+#### 🌱 I’m currently learning about `Python` and `AI` <br>
 #### ⚡ Fun fact: I like 🚵, nature and training 💪 <br>
 #### 🚀 Learning more, building better projects, and improving every day <br>
 
