@@ -10,11 +10,13 @@
 [![My Skills](https://skillicons.dev/icons?i=java,css,mysql,js,vscode,php,wordpress,mongodb,idea)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=py,html,postgres,git,eclipse,hibernate,jquery,maven,androidstudio)](https://skillicons.dev) <br>
 
-<details><summary><h2> 📁 My Repositories </h2></summary>
+<details><summary> 📁 My Repositories </summary>
 <div>
-  <p align="center">
 	<a href="https://github.com/jorgemg26/FilesManagement">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=FilesManagement&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/jorgemg26/MarksForm">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=MarksForm&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/jorgemg26/Cine">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=Cine&theme=tokyonight" alt="GitHub Stats" />
@@ -31,11 +33,9 @@
     <a href="https://github.com/jorgemg26/Passwords">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=Passwords&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-  </p>
 </div>
 </details>
-## 📈 Stats <br>
-<p></p>
+## 📈 Stats
     <a href="https://github.com/jorgemg26/github-readme-stats">
 		<img alt="jorgemg26's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jorgemg26&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
 	</a>
