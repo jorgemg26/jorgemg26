@@ -10,31 +10,35 @@
 [![My Skills](https://skillicons.dev/icons?i=java,css,mysql,js,vscode,php,wordpress,mongodb,idea)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=py,html,postgres,git,eclipse,hibernate,jquery,maven,androidstudio)](https://skillicons.dev) <br>
 
-<details><summary> 📁 My Repositories </summary>
-	<a href="https://github.com/jorgemg26/FilesManagement">
+## 📁 My Repositories
+<details>
+	<summary> Click to Open/Close </summary>
+	<p>
+		<a href="https://github.com/jorgemg26/FilesManagement">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=FilesManagement&theme=tokyonight" alt="Could not load them" />
     	</a>
-	<a href="https://github.com/jorgemg26/MarksForm">
+		<a href="https://github.com/jorgemg26/MarksForm">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=MarksForm&theme=tokyonight" />
     	</a>
-	<a href="https://github.com/jorgemg26/Cine">
+		<a href="https://github.com/jorgemg26/Cine">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=Cine&theme=tokyonight" />
     	</a>
-	 <a href="https://github.com/jorgemg26/Empleados">
+	 	<a href="https://github.com/jorgemg26/Empleados">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=Empleados&theme=tokyonight" />
     	</a>
-	<a href="https://github.com/jorgemg26/Slider">
+		<a href="https://github.com/jorgemg26/Slider">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=Slider&theme=tokyonight" />
     	</a>
-	<a href="https://github.com/jorgemg26/AulaEstudianteProfesor">
+		<a href="https://github.com/jorgemg26/AulaEstudianteProfesor">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=AulaEstudianteProfesor&theme=tokyonight" />
     	</a>
-    <a href="https://github.com/jorgemg26/Passwords">
+    	<a href="https://github.com/jorgemg26/Passwords">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=Passwords&theme=tokyonight" />
     	</a>
+	</p>
 </details>
 ## 📈 Stats
 <p>
-	<img src="https://github-readme-stats.vercel.app/api?username=jorgemg26&show_icons=true&theme=tokyonight&layout=compact" height="180px"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=jorgemg26&show_icons=true&theme=tokyonigh" height="180px"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgemg26&layout=compact&theme=tokyonight" height="180px"/>
 </p>
