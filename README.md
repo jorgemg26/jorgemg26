@@ -11,32 +11,30 @@
 [![My Skills](https://skillicons.dev/icons?i=py,html,postgres,git,eclipse,hibernate,jquery,maven,androidstudio)](https://skillicons.dev) <br>
 
 <details><summary> 📁 My Repositories </summary>
-<div>
 	<a href="https://github.com/jorgemg26/FilesManagement">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=FilesManagement&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=FilesManagement&theme=tokyonight" alt="Could not load them" />
     	</a>
 	<a href="https://github.com/jorgemg26/MarksForm">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=MarksForm&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=MarksForm&theme=tokyonight" />
     	</a>
 	<a href="https://github.com/jorgemg26/Cine">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=Cine&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=Cine&theme=tokyonight" />
     	</a>
 	 <a href="https://github.com/jorgemg26/Empleados">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=Empleados&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=Empleados&theme=tokyonight" />
     	</a>
 	<a href="https://github.com/jorgemg26/Slider">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=Slider&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=Slider&theme=tokyonight" />
     	</a>
 	<a href="https://github.com/jorgemg26/AulaEstudianteProfesor">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=AulaEstudianteProfesor&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=AulaEstudianteProfesor&theme=tokyonight" />
     	</a>
     <a href="https://github.com/jorgemg26/Passwords">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=Passwords&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=Passwords&theme=tokyonight" />
     	</a>
-</div>
 </details>
 ## 📈 Stats
-    <p>
-		<img alt="jorgemg26's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jorgemg26&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="180px"/>
-		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgemg26&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="jorgemg26" height="180px"/>
-	</p>
+<p>
+	<img src="https://github-readme-stats.vercel.app/api?username=jorgemg26&show_icons=true&theme=tokyonight&layout=compact" height="180px"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgemg26&layout=compact&theme=tokyonight" height="180px"/>
+</p>
