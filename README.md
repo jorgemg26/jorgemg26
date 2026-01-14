@@ -6,7 +6,7 @@
 #### ⚡ Fun fact: I like 🚵, nature and training 💪 <br>
 #### 🚀 Learning more, building better projects, and improving every day <br>
 
-## 🛠️ Technologies <br>
+## 🛠️ Technologies 
 [![My Skills](https://skillicons.dev/icons?i=java,css,mysql,js,vscode,php,wordpress,mongodb,idea)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=py,html,postgres,git,eclipse,hibernate,jquery,maven,androidstudio)](https://skillicons.dev) <br>
 
