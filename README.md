@@ -36,8 +36,7 @@
 </div>
 </details>
 ## 📈 Stats
-    <a href="https://github.com/jorgemg26/github-readme-stats">
-		<img alt="jorgemg26's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jorgemg26&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
-	</a>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgemg26&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="jorgemg26" height="230px"/>
-<br/>
+    <p>
+		<img alt="jorgemg26's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jorgemg26&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="180px"/>
+		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgemg26&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="jorgemg26" height="180px"/>
+	</p>
