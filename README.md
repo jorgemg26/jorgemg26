@@ -30,10 +30,10 @@
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=Slider&theme=tokyonight"/>
     	</a>
 		<a href="https://github.com/jorgemg26/AulaEstudianteProfesor">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=AulaEstudianteProfesor&theme=tokyonight"/>
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=SnowViewer&theme=tokyonight"/>
     	</a>
     	<a href="https://github.com/jorgemg26/Passwords">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=Passwords&theme=tokyonight" alt="Could not load them"/>
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=CountriesSelector&theme=tokyonight" alt="Could not load them"/>
     	</a>
 	</p>
 </details>
