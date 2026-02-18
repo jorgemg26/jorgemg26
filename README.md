@@ -17,11 +17,17 @@
 		<a href="https://github.com/jorgemg26/FilesManagement">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=FilesManagement&theme=tokyonight"/>
     	</a>
-		<a href="https://github.com/jorgemg26/MarksForm">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=MarksForm&theme=tokyonight"/>
+		<a href="https://github.com/jorgemg26/CountriesSelector">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=CountriesSelector&theme=tokyonight" alt="Could not load them"/>
     	</a>
 		<a href="https://github.com/jorgemg26/Cine">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=Cine&theme=tokyonight"/>
+    	</a>
+		<a href="https://github.com/jorgemg26/Aulas2D">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=Aulas2D&theme=tokyonight" alt="Could not load them"/>
+    	</a>
+		<a href="https://github.com/jorgemg26/MarksForm">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=MarksForm&theme=tokyonight"/>
     	</a>
 	 	<a href="https://github.com/jorgemg26/Empleados">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=Empleados&theme=tokyonight"/>
@@ -31,9 +37,6 @@
     	</a>
 		<a href="https://github.com/jorgemg26/AulaEstudianteProfesor">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=SnowViewer&theme=tokyonight"/>
-    	</a>
-    	<a href="https://github.com/jorgemg26/Passwords">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=CountriesSelector&theme=tokyonight" alt="Could not load them"/>
     	</a>
 	</p>
 </details>
