@@ -35,7 +35,7 @@
 		<a href="https://github.com/jorgemg26/Slider">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=Slider&theme=tokyonight"/>
     	</a>
-		<a href="https://github.com/jorgemg26/AulaEstudianteProfesor">
+		<a href="https://github.com/jorgemg26/SnowViewer">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=SnowViewer&theme=tokyonight"/>
     	</a>
 	</p>
