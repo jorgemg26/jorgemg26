@@ -23,8 +23,8 @@
 		<a href="https://github.com/jorgemg26/Cine">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=Cine&theme=tokyonight"/>
     	</a>
-		<a href="https://github.com/jorgemg26/Aulas2D">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=Aulas2D&theme=tokyonight" alt="Could not load them"/>
+		<a href="https://github.com/jorgemg26/Areas2D">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=Areas2D&theme=tokyonight" alt="Could not load them"/>
     	</a>
 		<a href="https://github.com/jorgemg26/MarksForm">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemg26&repo=MarksForm&theme=tokyonight"/>
