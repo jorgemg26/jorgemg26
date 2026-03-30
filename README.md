@@ -10,8 +10,18 @@
 [![My Skills](https://skillicons.dev/icons?i=java,css,mysql,js,vscode,php,wordpress,mongodb,idea)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=py,html,postgres,git,eclipse,hibernate,jquery,maven,androidstudio)](https://skillicons.dev) <br>
 
-## 📈 Stats
+## 📊 Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=jorgemg26&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgemg26&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jorgemg26&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
+
+## 📂 Featured Projects
+
+- 🚀 **RelayRace**  
+  Java multithreaded relay race simulation using threads and synchronization
+
+- 📱 **Areas2D**  
+  Android app to calculate 2D areas 
+
+- 🌐 **CountriesSelector**  
+  Web app using JavaScript for dynamic country selection
