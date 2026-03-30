@@ -27,6 +27,7 @@
 ## 📊 Stats
 <details>
   <summary>Click to open</summary>
+  
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=jorgemg26&show_icons=true&theme=tokyonight&cache_seconds=86400" />
   </p>
