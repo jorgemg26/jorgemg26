@@ -13,6 +13,7 @@
 ## 📂 Featured Projects
 <details>
   <summary>Click to open</summary>
+  
 - 🚀 **RelayRace**  
   Java multithreaded relay race simulation using threads and synchronization
 
