@@ -10,13 +10,9 @@
 [![My Skills](https://skillicons.dev/icons?i=java,css,mysql,js,vscode,php,wordpress,mongodb,idea)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=py,html,postgres,git,eclipse,hibernate,jquery,maven,androidstudio)](https://skillicons.dev) <br>
 
-## 📊 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jorgemg26&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-</p>
-
 ## 📂 Featured Projects
-
+<details>
+  <summary>Click to open</summary>
 - 🚀 **RelayRace**  
   Java multithreaded relay race simulation using threads and synchronization
 
@@ -25,3 +21,12 @@
 
 - 🌐 **CountriesSelector**  
   Web app using JavaScript for dynamic country selection
+</details>
+
+## 📊 Stats
+<details>
+  <summary>Click to open</summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=jorgemg26&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  </p>
+</details>
