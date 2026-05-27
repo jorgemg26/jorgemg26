@@ -17,11 +17,14 @@
 - 🚀 **RelayRace**  
   Java multithreaded relay race simulation using threads and synchronization
 
-- 📱 **Areas2D**  
-  Android app to calculate 2D areas 
+- 📔 **Dodge2D**
+   Android 2D game with movement mechanics, collisions and gameplay logic
+
+- 🎬 **Cinema**  
+  Java app for managing movies, rooms and spectators using OOP and data structures
 
 - 🌐 **CountriesSelector**  
-  Web app using JavaScript for dynamic country selection
+  Web app using JavaScript and AJAX for dynamic country selection and asyncronous updates
 </details>
 
 ## 📊 Stats
