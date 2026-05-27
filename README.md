@@ -17,7 +17,7 @@
 - 🚀 **RelayRace**  
   Java multithreaded relay race simulation using threads and synchronization
 
-- 📔 **Dodge2D** <br>
+- 🎮 **Dodge2D** <br>
    Android 2D game with movement mechanics, collisions and gameplay logic
 
 - 🎬 **Cinema**  
