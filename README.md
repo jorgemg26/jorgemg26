@@ -9,20 +9,35 @@
 
 ## 🛠️ Technologies 
 
-### Backend Development
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,php)](https://skillicons.dev)
+<details>
+<summary>Click to open</summary>
 
-### Frontend Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+### ☕ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,php" />
+</p>
 
-### Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-### Mobile Development
-[![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
 
-### Development Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,maven)](https://skillicons.dev)
+### 📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio" />
+</p>
+
+### 🔧 Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,maven" />
+</p>
+
+</details>
 
 ## 📂 Featured Projects
 <details>
