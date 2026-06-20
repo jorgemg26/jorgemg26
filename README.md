@@ -1,8 +1,8 @@
 <h1> Hello, world! I´m Jorge <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 
 #### 💻 Software Development student focused on Backend Development, AI and Cloud Computing
-#### 🚀 Currently building projects with Java, Spring Boot, Python and SQL
-#### 📚 Learning Software Architecture, AWS and Artificial Intelligence
+#### 🚀 Currently building projects with `Java`, `Spring Boot`, `Python` and `SQL`
+#### 📚 Learning `Software Architecture`, `AWS` and `Artificial Intelligence`
 #### 🏋️ Discipline-driven mindset developed through endurance sports, strength training and continuous self-improvement
 #### 🌍 Looking for internship opportunities and international career growth
 #### 📈 My goal is to become a highly skilled Software Engineer capable of building scalable and impactful systems
