@@ -23,6 +23,7 @@
 
 ### Development Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,maven)](https://skillicons.dev)
+
 ## 📂 Featured Projects
 <details>
   <summary>Click to open</summary>
