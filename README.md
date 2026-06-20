@@ -8,9 +8,21 @@
 #### 📈 My goal is to become a highly skilled Software Engineer capable of building scalable and impactful systems
 
 ## 🛠️ Technologies 
-[![My Skills](https://skillicons.dev/icons?i=java,css,mysql,js,vscode,php,maven,idea)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=py,html,postgres,git,eclipse,hibernate,spring,androidstudio)](https://skillicons.dev) <br>
 
+### Backend Development
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,php)](https://skillicons.dev)
+
+### Frontend Development
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+
+### Mobile Development
+[![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
+
+### Development Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,maven)](https://skillicons.dev)
 ## 📂 Featured Projects
 <details>
   <summary>Click to open</summary>
@@ -30,11 +42,10 @@
 
 ## 📊 Stats
 <details>
-  <summary>Click to open</summary> <br>
-  
+  <summary>Click to open</summary> 
+  <br>
   <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgemg26&show_icons=true&theme=tokyonight"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgemg26&layout=compact&theme=tokyonight"/>
   </p>
-  
 </details>
